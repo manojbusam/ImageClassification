@@ -1,4 +1,4 @@
-# Image Classification using CNN
+# Image Classification using K-Nearest Neighbour
 
 This project implements an image classification model using Convolutional Neural Networks (CNN).
 
