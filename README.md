@@ -23,14 +23,7 @@ This project implements an image classification model using Convolutional Neural
 
 ## Description
 
-The project aims to classify car images into different categories based on their make and model using CNN. The data science lifecycle involved in this project includes:
-
-1. **Data Collection:** Gathered car images from various sources or datasets.
-2. **Data Preprocessing:** Organized the dataset into training and testing sets, ensuring proper labels and structure.
-3. **Model Building:** Designed a CNN architecture for image classification.
-4. **Model Training:** Trained the CNN on the labeled images to learn and recognize different car categories.
-5. **Model Evaluation:** Evaluated the model's performance on a separate test set.
-6. **Deployment:** Utilized the trained model to classify new images.
+The project aims to classify cats and dogs images
 
 ## Usage
 
