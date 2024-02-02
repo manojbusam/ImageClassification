@@ -37,4 +37,4 @@ The project aims to classify car images into different categories based on their
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/image-classification-CNN.git
+https://github.com/manojbusam/ImageClassification.git
